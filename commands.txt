@@ -1,0 +1,20 @@
+mkdir
+rmdir
+cd
+rm
+ls
+mv  name rename
+whoami
+uname
+
+awk {print $1}
+sed 's/old/replace/g' file.txt
+grep "wo" try3.txtp 
+htop, top
+find . -name "*.txt"
+du, df
+ssh
+ping
+chmod
+tar -cvf archive.tar file1.txt file2.log
+
